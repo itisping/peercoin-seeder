@@ -344,7 +344,7 @@ extern "C" void* ThreadStats(void*) {
 
 static const string mainnet_seeds[] = {
         "62.210.141.185",
-        "seed.ppcoin.net",
+        "seed.diandianbi.org",
         ""};
 
 static const string testnet_seeds[] = {"seed.ppcoin.org", ""};
